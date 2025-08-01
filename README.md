@@ -1,12 +1,18 @@
-### Olá! Eu sou o Gabriel José 🤘🏻👨🏻‍💻
+# 👋 Olá! Eu sou o **Gabriel José** 🤘🏻👨🏻‍💻
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas  
-🔧 Ex-Jovem Aprendiz na Saint-Gobain Sekurit – Projeto White Belt  
-💡 Desenvolvendo soluções reais com tecnologia  
-🚀 Skills: HTML, CSS, JavaScript, Python, Java, C, C#, MySQL, PostgreSQL, Git, Power BI
+## 📚 Estudante de Análise e Desenvolvimento de Sistemas
+
+## 🔧 Experiência
+
+Ex-Jovem Aprendiz na **Saint-Gobain Sekurit** – Projeto White Belt
+
+## 💡 Sobre mim
+
+Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por transformar desafios em soluções práticas usando tecnologia. Com experiência como Jovem Aprendiz na Saint-Gobain Sekurit, busco crescer constantemente, aprendendo e aplicando conhecimentos para impactar positivamente projetos reais. Curioso, dedicado e focado em inovação, estou sempre aberto a novos aprendizados e colaborações.
 
 💭 "Transformando ideias em soluções com tecnologia e propósito."
 
+---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gjds/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josegabriel13112004@gmail.com)
 
 
