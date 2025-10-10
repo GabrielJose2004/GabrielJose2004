@@ -60,16 +60,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por transf
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielJose2004&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJose2004&layout=compact&theme=nord"/>
 </div>
-
----
-
-<div align="center">
-  <a href="https://open.spotify.com/user/315s72vp5r4ipwtbn6xuhfj2olja">
-    <img 
-      src="https://spotify-recently-played-readme.vercel.app/api?user=315s72vp5r4ipwtbn6xuhfj2olja&count=5&unique=false" 
-      alt="Spotify recently played"  
-      style="width: 60%; max-width: 100px;" 
-    />
   </a>
 </div>
 
